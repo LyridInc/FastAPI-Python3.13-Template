@@ -1,0 +1,11 @@
+name: fastapi
+description: FastAPI Template
+ignoreFiles: .git venv
+modules:
+- name: app
+  language: python3.13
+  web: fastapi
+  description: Module description
+  functions:
+  - name: entry
+    description: the entry point for the function

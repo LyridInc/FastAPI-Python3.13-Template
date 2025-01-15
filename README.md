@@ -29,6 +29,6 @@ Wait until the cloud platform to finish with the build and the default deploymen
 
 ## Start hacking:
 
-Edit the routes at /entry/entry.py with your custom API. 
+Edit the routes and codes at /main folder with your custom API. 
 
 Add more middlewares or your business logic in there.
